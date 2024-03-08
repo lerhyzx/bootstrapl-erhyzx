@@ -1,0 +1,16 @@
+.col {
+    background-color: rgb(247, 185, 215);
+    
+}
+body {
+    background-image: url(background.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-8 {
+    background-color: rgb(224, 156, 221);
+}
+.col-4 {
+    background-color: rgb(255, 159, 239);
+}
